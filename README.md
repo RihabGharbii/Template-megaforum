@@ -1,4 +1,4 @@
-# [Light Bootstrap Dashboard Angular CLI](http://lbd-angular2.creative-tim.com/) 1..2..3
+# [Light Bootstrap Dashboard Angular CLI](http://lbd-angular2.creative-tim.com/) Rihab
 [![version][version-badge]][CHANGELOG]
 
 ![alt text](src/assets/img/opt_lbd_angular_thumbnail.jpg)
